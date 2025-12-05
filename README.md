@@ -2,7 +2,7 @@
 
 # FitLife - Sistema de Facturación y Clientes
 
-FitLive es un sistema de facturación y gestión de clientes basado en una arquitectura de microservicios, diseñado específicamente para las operaciones comerciales en Perú. La plataforma consta de dos servicios principales que manejan la gestión de clientes (con validación de RUC/DNI) y la generación de facturas con capacidades de exportación a PDF y códigos QR.
+FitLife es un sistema de facturación y gestión de clientes basado en una arquitectura de microservicios, diseñado específicamente para las operaciones comerciales en Perú. La plataforma consta de dos servicios principales que manejan la gestión de clientes (con validación de RUC/DNI) y la generación de facturas con capacidades de exportación a PDF y códigos QR.
 
 ---
 
@@ -99,8 +99,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/OAQR/FitLive.git
-    cd FitLive
+    git clone https://github.com/OAQR/FitLife.git
+    cd FitLife
     ```
 
 2.  **Compila el servicio de clientes:**
